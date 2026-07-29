@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 This is a message.
 this is the second change
-tttttt
-=======
-sdfasd
->>>>>>> 4c75e019ff8873b7667376e1e1b2f768dba15bbe
+and the third push
