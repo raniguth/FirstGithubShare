@@ -1,0 +1,2 @@
+# FirstGithubShare
+sharing a repository 
